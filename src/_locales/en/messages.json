@@ -1,16 +1,16 @@
 {
   "extensionName": {
-    "message": "Open Page in Private Window",
+    "message": "Escalate Private Tab",
     "description": "Name of the extension and toolbar button tooltip."
   },
 
   "extensionDescription": {
-    "message": "Open a copy of the current page in a new Private Window.",
+    "message": "Reopen a private tab as a regular tab, and vice versa.",
     "description": "Description of the extension."
   },
 
   "actionTitle": {
-    "message": "Open Page in Private Window",
+    "message": "Reopen page in a public/private context",
     "description": "Title of the context menu item and toolbar icon."
   }
 }
