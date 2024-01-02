@@ -1,5 +1,21 @@
-**["Open Page in Private Window"](https://addons.mozilla.org/firefox/addon/open-page-in-private-window/)** is a Firefox extension that enables you to easily open a copy of the current page in a new Private Window. This is useful for reading articles on websites that limit the number of articles you can read per month. This extension does not clear your browsing history or close the original tab. You can activate this extension from the "Open Page in Private Window" context menu item or an optional toolbar button.
+# Escalate Private Tab
 
-You can [install the extension from Mozilla's Add-ons website](https://addons.mozilla.org/firefox/addon/open-page-in-private-window/). Please feel free to send me new or corrected translations in <a href="mailto:open-page-in-private-window@cpeterso.com">email</a> or on <a href="https://github.com/cpeterso/open-page-in-private-window/tree/master/src/_locales">GitHub</a>. The code is licensed under the <a href="https://www.mozilla.org/media/MPL/2.0/index.txt">Mozilla Public License Version 2.0</a>.
+Browser extension for reopening a private tab as a regular tab, and vice versa. 
 
-The [ghost icon](https://www.iconfinder.com/icons/744561/dead_ghost_halloween_horror_monster_phantom_scary_icon) was created by [Daniele De Santis](http://www.danieledesantis.net/) and is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
+This extension was forked from [cpeterso/open-page-in-private-window][fork] as
+it provided a reasonable base to build from. It has been updated to Manifest V3
+to support multiple browsers in theory, but has only been tested on Firefox.
+
+[fork]: https://github.com/cpeterso/open-page-in-private-window
+
+This was created as Firefox for Android supports opening links in private
+windows by default, but there's no convenient way to reopen the tab in a
+non-private context when necessary.
+
+## License
+
+[Mozilla Public License Version 2.0](./LICENSE.md)
+
+Icons from the [Carbon Design System][carbon], under Apache 2.0 License
+
+[carbon]: https://github.com/carbon-design-system/carbon
